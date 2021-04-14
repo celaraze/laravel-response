@@ -46,4 +46,4 @@ public function user(){
 
 #### 开源协议
 
-Pour 遵循 MIT 开源协议。
+Laravel Response 遵循 MIT 开源协议。
