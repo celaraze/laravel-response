@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Response;
+namespace Celaraze;
 
 
 use Exception;
